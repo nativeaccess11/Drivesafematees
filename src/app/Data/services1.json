@@ -1,0 +1,30 @@
+[
+  {
+    "icon": "/assets/images/service1.png",
+    "title": "Beginner Driving Lessons",
+    "desc": "Comprehensive driving lessons designed for first-time drivers to build confidence and road safety awareness.",
+    "btnText": "READ MORE",
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "/assets/images/service2.png",
+    "title": "Defensive Driving Course",
+    "desc": "Learn advanced techniques to anticipate and avoid road hazards with our certified defensive driving training.",
+    "btnText": "READ MORE",
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "/assets/images/service3.png",
+    "title": "Driving Test Preparation",
+    "desc": "Get fully prepared for your driving test with mock exams, tips, and practical on-road practice sessions.",
+    "btnText": "READ MORE",
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "/assets/images/service4.png",
+    "title": "Refresher Driving Lessons",
+    "desc": "Ideal for licensed drivers who want to regain driving confidence or update their skills after a break.",
+    "btnText": "READ MORE",
+    "btnLink": "/service/service-details"
+  }
+]

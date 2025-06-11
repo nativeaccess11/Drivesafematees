@@ -1,0 +1,27 @@
+[
+  {
+    "img": "/assets/images/feature1.png",
+    "title": "Beginner Driving Course",
+    "desc": "Learn the fundamentals of safe driving, traffic rules, and vehicle handling from scratch."
+  },
+  {
+    "img": "/assets/images/feature2",
+    "title": "Defensive Driving",
+    "desc": "Enhance your driving skills with techniques to anticipate and safely respond to road hazards."
+  },
+  {
+    "img": "/assets/images/feature3.png",
+    "title": "Overseas Classes",
+    "desc": "Get trained to drive in foreign countries, focusing on international traffic laws and road etiquette."
+  },
+  {
+    "img": "/assets/images/feature4.png",
+    "title": "Casual Driving Classes",
+    "desc": "Flexible and relaxed driving lessons designed for occasional or recreational drivers."
+  },
+  {
+    "img": "/assets/images/feature5.png",
+    "title": "Test Preparation Driving Classes",
+    "desc": "Sharpen your driving skills and gain confidence with practical test simulations and exam tips."
+  }
+]

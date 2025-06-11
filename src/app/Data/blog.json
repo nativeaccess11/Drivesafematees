@@ -1,0 +1,32 @@
+[
+  {
+    "img": "/assets/images/inner/blog-grid1.png",  
+    "title": "Instructor Feedback: Improving Your Driving Skills",
+    "category": "DRIVING TIPS"
+  },
+  {
+    "img": "/assets/images/inner/blog-grid2.png",  
+    "title": "Streamlining Driving Lessons with Smart Scheduling",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "img": "/assets/images/inner/blog-grid3.png",  
+    "title": "Helping Students Unlock Confidence Behind the Wheel",
+    "category": "STUDENT SUCCESS"
+  },
+  {
+    "img": "/assets/images/inner/blog-grid4.png",  
+    "title": "Safe Driving and Road Ethics: A Balanced Approach",
+    "category": "SAFETY"
+  },
+  {
+    "img": "/assets/images/inner/blog-grid5.png",  
+    "title": "Designing the Perfect Learning Journey for Drivers",
+    "category": "COURSE DESIGN"
+  },
+  {
+    "img": "/assets/images/inner/blog-grid6.png",  
+    "title": "Keeping Your Driving Experience Safe and Reliable",
+    "category": "ROAD SAFETY"
+  }  
+]
